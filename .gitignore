@@ -16,9 +16,16 @@
 # next.js
 /.next/
 /out/
+apps/*/.next/
+apps/*/out/
 
 # production
 /build
+apps/*/build
+
+# turborepo
+.turbo
+apps/*/.turbo
 
 # misc
 .DS_Store
