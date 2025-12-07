@@ -1,6 +1,6 @@
 {
-  "name": "ekko-recipe",
-  "version": "0.1.0",
+  "name": "nextjs-bun-redis-convex-turborepo-starter",
+  "version": "1.0.0",
   "private": true,
   "packageManager": "bun@1.1.0",
   "workspaces": [

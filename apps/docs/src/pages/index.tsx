@@ -8,15 +8,19 @@ import styles from './index.module.css';
 function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          Ekko Recipe
+      <div className='container'>
+        <Heading
+          as='h1'
+          className='hero__title'
+        >
+          nextjs-bun-redis-convex-turborepo-starter
         </Heading>
-        <p className="hero__subtitle">Recipe Documentation</p>
+        <p className='hero__subtitle'>Documentation</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
+            className='button button--secondary button--lg'
+            to='/docs/intro'
+          >
             Get Started
           </Link>
         </div>
@@ -28,8 +32,9 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   return (
     <Layout
-      title="Home"
-      description="Ekko Recipe Documentation">
+      title='Home'
+      description='nextjs-bun-redis-convex-turborepo-starter Documentation'
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />
@@ -37,4 +42,3 @@ export default function Home(): JSX.Element {
     </Layout>
   );
 }
-

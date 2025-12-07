@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Ekko Recipe',
-  tagline: 'Recipe Documentation',
+  title: 'nextjs-bun-redis-convex-turborepo-starter',
+  tagline: 'Documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ekko-recipe', // Usually your GitHub org/user name.
-  projectName: 'ekko-recipe', // Usually your repo name.
+  organizationName: 'nextjs-bun-redis-convex-turborepo-starter', // Usually your GitHub org/user name.
+  projectName: 'nextjs-bun-redis-convex-turborepo-starter', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -58,9 +58,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Ekko Recipe',
+      title: 'nextjs-bun-redis-convex-turborepo-starter',
       logo: {
-        alt: 'Ekko Recipe Logo',
+        alt: 'nextjs-bun-redis-convex-turborepo-starter Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -120,7 +120,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Ekko Recipe. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} nextjs-bun-redis-convex-turborepo-starter. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

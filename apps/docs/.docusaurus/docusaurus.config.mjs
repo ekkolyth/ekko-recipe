@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Ekko Recipe",
-  "tagline": "Recipe Documentation",
+  "title": "nextjs-bun-redis-convex-turborepo-starter",
+  "tagline": "Documentation",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.com",
   "baseUrl": "/",
-  "organizationName": "ekko-recipe",
-  "projectName": "ekko-recipe",
+  "organizationName": "nextjs-bun-redis-convex-turborepo-starter",
+  "projectName": "nextjs-bun-redis-convex-turborepo-starter",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -41,9 +41,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Ekko Recipe",
+      "title": "nextjs-bun-redis-convex-turborepo-starter",
       "logo": {
-        "alt": "Ekko Recipe Logo",
+        "alt": "nextjs-bun-redis-convex-turborepo-starter Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -104,7 +104,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Ekko Recipe. Built with Docusaurus."
+      "copyright": "Copyright © 2025 nextjs-bun-redis-convex-turborepo-starter. Built with Docusaurus."
     },
     "prism": {
       "theme": {

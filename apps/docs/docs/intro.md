@@ -1,6 +1,6 @@
-# Welcome to Ekko Recipe Documentation
+# Welcome to nextjs-bun-redis-convex-turborepo-starter Documentation
 
-This is the documentation site for Ekko Recipe.
+This is the documentation site for nextjs-bun-redis-convex-turborepo-starter.
 
 ## Getting Started
 

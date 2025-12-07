@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Welcome to Ekko Recipe Documentation",
-  "description": "This is the documentation site for Ekko Recipe.",
+  "title": "Welcome to nextjs-bun-redis-convex-turborepo-starter Documentation",
+  "description": "This is the documentation site for nextjs-bun-redis-convex-turborepo-starter.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
